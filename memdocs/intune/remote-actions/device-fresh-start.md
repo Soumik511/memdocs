@@ -49,5 +49,5 @@ The **Fresh Start** device action removes any apps that are installed on a PC ru
  > Azure AD joined devices will be enrolled into mobile device management again when an Azure Active Directory enabled user signs into the device.
  
 5. Click **OK**.   
-6. To see the status of this action, go back to **Devices** and click **Device actions**.  
+6. To see the status of this action, go back to **Devices**, **Monitor** and click **Device actions**.  
 7. The device will be restored to the initial sign-in screen.
